@@ -4,6 +4,7 @@ Training about git at Sopra Steria on January 20th, 2021
 
 ## Basics commands
 
+- git stage
 - git init
 - git config
 - git add
